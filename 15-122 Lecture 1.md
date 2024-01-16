@@ -108,9 +108,13 @@ We test a combination of inputs and outputs
 It appears the function evaluates $f(x,y)=x^y$ for positive values of $x$ and $y$, but is incorrect on negative and zero values.
 
 We can define $x^{y}$ as:
-$$x\times x\times\ldots\times x$$
+```math
+x\times x\times\ldots\times x
+```
 As an alternative recursive formulation we can define $x^y$ as
-$$f(x,y)=\begin{cases}1&y=0 \\ x\cdot x^{y-1}&y>0\end{cases}$$
+```math
+f(x,y)=\begin{cases}1&y=0 \\ x\cdot x^{y-1}&y>0\end{cases}
+```
 Note the power function is undefined for negative values of $y$. 
 ### Preconditions
 
