@@ -73,7 +73,7 @@
 	- Programming due Thursdays 9pm on Autolab
 - 5% - In-class activities and labs
 - - - 
-### Academic Integrity (commit many violations)
+### Academic Integrity
 - OK to discuss course material, practice problems, blank assignments, study sessions, handed-back homework
 - NOT OK to discuss homework answers and sharing code
 - - - 
